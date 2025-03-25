@@ -1,7 +1,10 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+  font-size: calc(10px + 2vmin);
   text-align: center;
 }
 
